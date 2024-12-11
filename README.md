@@ -1,2 +1,2 @@
-# joriktech
-Repository for storing code used in my videos
+# JorikTech
+Repository used for storing the code that is used in the videos I publish on YouTube.
